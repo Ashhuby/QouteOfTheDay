@@ -22,8 +22,8 @@ class Program
             using JsonDocument doc = JsonDocument.Parse(responseBody);
             JsonElement root = doc.RootElement;
 
-            string content = root.GetProperty("content").GetString();
-            string author = root.GetProperty("author").GetString();
+            string content = root.GetProperty("content").GetString() ?? "No quote found";
+            string author = root.GetProperty("author").GetString() ?? "Unknown author";
 
             Console.WriteLine($"\n\"{content}\"\n— {author}");
         }

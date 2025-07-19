@@ -12,3 +12,4 @@ C:\MyRepos\Extra\QuoteOfTheDy\QouteProgram\obj\Debug\net9.0\refint\QouteProgram.
 C:\MyRepos\Extra\QuoteOfTheDy\QouteProgram\obj\Debug\net9.0\QouteProgram.pdb
 C:\MyRepos\Extra\QuoteOfTheDy\QouteProgram\obj\Debug\net9.0\QouteProgram.genruntimeconfig.cache
 C:\MyRepos\Extra\QuoteOfTheDy\QouteProgram\obj\Debug\net9.0\ref\QouteProgram.dll
+C:\MyRepos\Extra\QuoteOfTheDy\QouteProgram\obj\Debug\net9.0\QouteProgram.sourcelink.json

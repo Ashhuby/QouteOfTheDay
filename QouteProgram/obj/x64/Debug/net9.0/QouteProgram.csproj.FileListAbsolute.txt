@@ -1,0 +1,15 @@
+C:\MyRepos\Extra\QuoteOfTheDy\QouteProgram\bin\x64\Debug\net9.0\QouteProgram.exe
+C:\MyRepos\Extra\QuoteOfTheDy\QouteProgram\bin\x64\Debug\net9.0\QouteProgram.deps.json
+C:\MyRepos\Extra\QuoteOfTheDy\QouteProgram\bin\x64\Debug\net9.0\QouteProgram.runtimeconfig.json
+C:\MyRepos\Extra\QuoteOfTheDy\QouteProgram\bin\x64\Debug\net9.0\QouteProgram.dll
+C:\MyRepos\Extra\QuoteOfTheDy\QouteProgram\bin\x64\Debug\net9.0\QouteProgram.pdb
+C:\MyRepos\Extra\QuoteOfTheDy\QouteProgram\obj\x64\Debug\net9.0\QouteProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyRepos\Extra\QuoteOfTheDy\QouteProgram\obj\x64\Debug\net9.0\QouteProgram.AssemblyInfoInputs.cache
+C:\MyRepos\Extra\QuoteOfTheDy\QouteProgram\obj\x64\Debug\net9.0\QouteProgram.AssemblyInfo.cs
+C:\MyRepos\Extra\QuoteOfTheDy\QouteProgram\obj\x64\Debug\net9.0\QouteProgram.csproj.CoreCompileInputs.cache
+C:\MyRepos\Extra\QuoteOfTheDy\QouteProgram\obj\x64\Debug\net9.0\QouteProgram.sourcelink.json
+C:\MyRepos\Extra\QuoteOfTheDy\QouteProgram\obj\x64\Debug\net9.0\QouteProgram.dll
+C:\MyRepos\Extra\QuoteOfTheDy\QouteProgram\obj\x64\Debug\net9.0\refint\QouteProgram.dll
+C:\MyRepos\Extra\QuoteOfTheDy\QouteProgram\obj\x64\Debug\net9.0\QouteProgram.pdb
+C:\MyRepos\Extra\QuoteOfTheDy\QouteProgram\obj\x64\Debug\net9.0\QouteProgram.genruntimeconfig.cache
+C:\MyRepos\Extra\QuoteOfTheDy\QouteProgram\obj\x64\Debug\net9.0\ref\QouteProgram.dll
